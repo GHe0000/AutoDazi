@@ -1,0 +1,34 @@
+WebDriver:
+  "Edge"
+
+WaitTime:
+  60
+
+MaxLines:
+  300
+
+BackPro:
+  1
+
+normalDelay:
+  0.1
+
+TgWpm:
+  250
+
+WpmChange:
+  50
+
+# 乘上标准正态分布
+speedUp:
+  20
+
+speedDown:
+  20
+
+TgChangeTime:
+  20
+
+TimeChange:
+  10
+
